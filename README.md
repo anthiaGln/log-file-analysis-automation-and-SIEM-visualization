@@ -16,10 +16,4 @@ The dataset is based on simulated real-world logs from LogHub.
 
 🎯 Objectives
 
-Detect repeated failed login attempts
-
-Identify suspicious IP addresses
-
-Automate log analysis using Python
-
-Export findings into a CSV file
+- Manual Log Analysis

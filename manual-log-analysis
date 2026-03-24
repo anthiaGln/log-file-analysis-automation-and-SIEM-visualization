@@ -1,0 +1,11 @@
+This objective is about analyzing computer logs to identify suspicious login
+activity. I will identify failed login attempt in a real world log file.
+This dataset simulates real-world Linux system logs, including authentication attempts,
+user sessions, and system events.
+
+Firstly, I dowloaded Linux_2k.log from LogHub Linux logs. 
+
+To keep the project manageable, I analyzed a sections lines of the log file.
+In this case, VS Code was utilized to help track the first 20 to 40 lines. 
+
+

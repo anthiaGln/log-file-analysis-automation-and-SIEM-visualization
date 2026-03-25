@@ -18,3 +18,12 @@ Looking at the log entries I checked for any signs of failes logins or unusual a
 
 
 <img width="1028" height="353" alt="logs" src="https://github.com/user-attachments/assets/48590848-5121-486f-ba2f-6d00921fa24f" />
+
+
+The logs indicate several failed login attempts from the IP addresses 218.188.2.4 and
+220.135.151.1, mainly targeting the root account. This strongly suggests the possibility
+of brute-force attack attempts. The repeated failures from these specific IP addresses
+indicate either automated attacks or probing activities. Additionally, the presence of
+"user unknown" messages shows that attackers are randomly trying various usernames.
+
+

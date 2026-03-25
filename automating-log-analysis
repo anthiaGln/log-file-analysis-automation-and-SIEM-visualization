@@ -1,0 +1,2 @@
+To extend the manual log review I wrote a Pthon script to automatically scan Linux log files for suspicious activity (failed logins,
+unknown users, etc.)

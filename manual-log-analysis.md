@@ -14,4 +14,4 @@ Looking at the log entries I checked for any signs of failes logins or unusual a
 ● System alerts or abnormal exits that suggest possible issues. 
 
 
-
+<img width="1028" height="353" alt="logs" src="https://github.com/user-attachments/assets/48590848-5121-486f-ba2f-6d00921fa24f" />

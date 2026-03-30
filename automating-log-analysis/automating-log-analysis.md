@@ -6,4 +6,4 @@ It then takes lines 200 to 500 and puts them in a new list, subset_logs. The scr
 with a tag for the event type (like “Failed Login”). The script prints these flagged entries and shows the total number of suspicious events found. 
 This automates scanning log lines to quickly identify suspicious activity that would otherwise require manual review.
 
-After I ran my Python file I exported the results to a CSV file.
+After I ran my Python file I exported the results to a CSV file (suspicious_logs.csv).

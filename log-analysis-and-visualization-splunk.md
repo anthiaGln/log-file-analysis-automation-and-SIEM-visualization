@@ -17,6 +17,8 @@ attempts or unauthorized access, such as:
 With reviewing these results we can identify patterns in timestamps, usernames, and IP
 addresses.
 
+<img width="557" height="298" alt="Στιγμιότυπο οθόνης 2026-03-21 181656" src="https://github.com/user-attachments/assets/1e1c6319-a6fc-4083-9b83-2ecbb68d0966" />
+
 After running the search query, Splunk shows all matching log entries under the Events
 tab.
 
@@ -30,5 +32,10 @@ One entry immediately stands out:
 
 ● Attempts occur within very short intervals (a few seconds apart)
 
+This behavior is highly consistent with brute-force login attempts, so we follow this IP
+deeper through the visualization tools.
 
-<img width="557" height="298" alt="Στιγμιότυπο οθόνης 2026-03-21 181656" src="https://github.com/user-attachments/assets/1e1c6319-a6fc-4083-9b83-2ecbb68d0966" />
+● Events View – Identifying the Suspicious Source
+
+<img width="560" height="274" alt="identify suspicious source" src="https://github.com/user-attachments/assets/e036afbf-c11e-4a9b-a0be-eff04defb7fb" />
+

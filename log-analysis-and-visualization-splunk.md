@@ -9,7 +9,9 @@ This filters the log to show only entries that match common indicators of brute-
 attempts or unauthorized access, such as:
 
 ● Repeated failed logins
+
 ● Invalid or unknown users
+
 ● Authentication failures
 
 With reviewing these results we can identify patterns in timestamps, usernames, and IP
@@ -19,9 +21,13 @@ After running the search query, Splunk shows all matching log entries under the 
 tab.
 
 One entry immediately stands out:
+
 ● Repeated failed login attempts
+
 ● Same username attempted: root
+
 ● Same source IP: 207.243.167.114
+
 ● Attempts occur within very short intervals (a few seconds apart)
 
 

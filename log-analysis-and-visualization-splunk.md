@@ -39,3 +39,13 @@ deeper through the visualization tools.
 
 <img width="560" height="274" alt="identify suspicious source" src="https://github.com/user-attachments/assets/e036afbf-c11e-4a9b-a0be-eff04defb7fb" />
 
+In the Events view the IP 207.243.167.114 appears multiple times attempting to log into root.
+
+This raises a red flag because:
+
+● “root” is a high-value target
+
+● Repeated failures indicate likely unauthorized access attempts
+
+At this point, we should escalate this for pattern analysis.
+

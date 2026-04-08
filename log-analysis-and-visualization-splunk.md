@@ -63,3 +63,16 @@ One pattern appears prominently:
 
 This confirms that multiple source IP generated repeated failures using the same
 target account. 
+
+Statistics View – Breaking Down the Data
+
+Switch to the Statistics tab to group events by IP, user, and event count.
+Observations include:
+
+● 150.183.249.110 has the highest number of event count
+
+● Targeted username is consistently root
+
+● Other IPs show fewer and scattered attempts
+
+This tabular view provides clarity on the scale and focus of the attack.

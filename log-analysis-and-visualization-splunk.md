@@ -2,7 +2,7 @@ Building on the manual and automated log analysis, this objective introduces
 Splunk, a Security Information and Event Management (SIEM) tool used in
 professional SOC environments.
 
-On the splunk I uploaded the Linux_2k.log file. In order to sreach the log for suspicious activity I used the query
+On the splunk I uploaded the Linux_2k.log file. In order to search the log for suspicious activity I used the query
 default_metadata (“Failed password” or “authentication failure” OR “invalid user” OR “user unknown”)
 
 This filters the log to show only entries that match common indicators of brute-force

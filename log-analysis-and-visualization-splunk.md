@@ -79,3 +79,11 @@ This tabular view provides clarity on the scale and focus of the attack.
 
 <img width="546" height="275" alt="statistics view" src="https://github.com/user-attachments/assets/8977b626-ef3a-418c-a27e-c95e05052c9e" />
 
+Visualization View – Presenting the Attack Timeline
+
+In the Visualization tab, a line chart is used to plot authentication failures over
+time. This visualization makes it easier to identify patterns and highlight potential
+security incidents.
+
+<img width="552" height="259" alt="12" src="https://github.com/user-attachments/assets/122bedee-1545-476c-8781-eaa7c91f914b" />
+

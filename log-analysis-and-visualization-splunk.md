@@ -57,4 +57,9 @@ Switching to Patterns, Splunk clusters similar events.
 <img width="557" height="219" alt="patterns view" src="https://github.com/user-attachments/assets/7bc8a1f9-5987-4bc7-9a37-b2a8b839270c" />
 
 
+One pattern appears prominently:
 
+● “Failed password for root”
+
+This confirms that multiple source IP generated repeated failures using the same
+target account. 

@@ -76,3 +76,6 @@ Observations include:
 ● Other IPs show fewer and scattered attempts
 
 This tabular view provides clarity on the scale and focus of the attack.
+
+<img width="546" height="275" alt="statistics view" src="https://github.com/user-attachments/assets/8977b626-ef3a-418c-a27e-c95e05052c9e" />
+

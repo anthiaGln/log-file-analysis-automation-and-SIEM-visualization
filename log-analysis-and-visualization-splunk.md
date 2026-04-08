@@ -49,3 +49,12 @@ This raises a red flag because:
 
 At this point, we should escalate this for pattern analysis.
 
+● Patterns View — Confirming Repetitive Behavior
+
+Switching to Patterns, Splunk clusters similar events.
+
+
+<img width="557" height="219" alt="patterns view" src="https://github.com/user-attachments/assets/7bc8a1f9-5987-4bc7-9a37-b2a8b839270c" />
+
+
+

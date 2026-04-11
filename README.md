@@ -18,3 +18,4 @@ The dataset is based on simulated real-world logs from LogHub.
 
 - Manual Log Analysis
 - Automating Log Analysis
+- Log Analysis and Visualization with Splunk

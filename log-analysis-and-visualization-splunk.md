@@ -87,3 +87,15 @@ security incidents.
 
 <img width="552" height="259" alt="12" src="https://github.com/user-attachments/assets/122bedee-1545-476c-8781-eaa7c91f914b" />
 
+Observations from the Line Chart:
+
+● Sharp spikes in authentication failure events within short intervals
+
+● Repeated attempts often target the root account
+
+● These spikes correspond to multiple failed logins from the same IP
+address.
+
+This suggests that the activity is time-based and bursty, indicating automated brute-force
+attempts. The focus on the root username implies an attempt to gain
+administrative access. This kind of trend is typical for attackers using scripts or botnets.
